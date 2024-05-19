@@ -1,5 +1,6 @@
 <img src="lusc.jpeg" alt="logo"></img>
 # LUSC - Linux UEFI STUB Creator
+# Bash and C version !
 
 LUSC (Linux UEFI STUB Creator) is a simple interactive tool to automatically generate UEFI boot entries. It generates `efibootmgr` commands and exports them to a small executable. This script ensures that no changes are written to disk before confirmation.
 
