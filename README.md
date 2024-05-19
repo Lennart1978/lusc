@@ -16,3 +16,4 @@ LUSC (Linux UEFI STUB Creator) is a simple interactive tool to automatically gen
 - The EFI partition must be mounted to `/boot`
 - The kernel and initramfs image must be located at the root of the EFI partition
 - Root privileges are required to run the script
+- efibootmgr must be installed
