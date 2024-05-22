@@ -1,5 +1,4 @@
 <img src="lusc.jpeg" alt="logo"></img>
-<url>https://github.com/lennart1978/lusc</url>
 # LUSC - Linux UEFI STUB Creator
 # Bash and C version !
 
