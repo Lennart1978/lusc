@@ -35,5 +35,7 @@ You can also use a compiled C binary version of lusc if you like, but it is not 
 
 This is my (U)EFI- STUB boot time (faster than systemd-boot, grub ...):
 <img src="analyze-boot.png" alt="boottime"></img>
+My actual setup (29-05-24):
+<img src="fastfetch29-05-24.png" alt="fastfetch"></img>
 
 
