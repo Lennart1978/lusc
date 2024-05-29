@@ -33,4 +33,7 @@ You can also use a compiled C binary version of lusc if you like, but it is not 
 - make
 - sudo make install (binary=/usr/bin/lusc-c you can adjust this in the provided Makefile)
 
+This is my (U)EFI- STUB boot time (faster than systemd-boot, grub ...):
+<img src="analyze-boot.png" alt="boottime"></img>
+
 
